@@ -1,38 +1,9 @@
----
+# 💫 About Me:
+I'm a passionate and self-driven software engineering student with a basic foundation in object-oriented programming and web technologies. <br>I believe in writing readable code, learning by doing, and seeking for knowledge with the developer community. <br><br># 📌 Goals<br><br>* Master full-stack, OOP and android application development using modern tools and frameworks<br>* Learn cloud technologies and containerization tools like Docker<br>* Practice writing scalable and maintainable code for real-world use cases<br>* Contribute to open-source projects and build a strong portfolio
 
-### 🧑‍💻 About Me
 
-I'm a passionate and self-driven software engineering student with a basic foundation in object-oriented programming and web technologies. I enjoy building clean, efficient, and user-friendly applications, whether it's through C++ backends or modern web design using HTML and CSS.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yonas-sera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonassera1996@gmail.com) 
 
-I believe in writing readable code, learning by doing, and seeking for knowledge with the developer community. My focus is currently on strengthening my skills in full-stack development and exploring real-world applications of C# and Java in software systems.
-
----
-
-### 💻 Languages & Technologies
-
-* **C++** – For system-level logic and performance-oriented applications
-* **C#** – Building desktop applications and working with .NET environments
-* **Java** – Cross-platform programming and backend development
-* **HTML & CSS** – Crafting responsive and accessible web interfaces
-
-I’m also continuously exploring version control tools like Git and expanding into frameworks that enhance my frontend and backend skills.
-
----
-
-### 📌 Goals
-
-* Master full-stack development using modern tools and frameworks
-* Contribute to open-source projects and build a strong portfolio
-* Learn cloud technologies and containerization tools like Docker
-* Practice writing scalable and maintainable code for real-world use cases
-
----
-
-### 📫 Let’s Connect
-
-If you’re interested in collaborating, discussing projects, or just saying hello, feel free to reach out:
-
-* ✉️ **Email:** \[[jonassera1996@gmail.com](mailto:jonassera1996@gmail.com)]
-* 💬 **Discord/GitHub Discussions:** Open for chats or questions!
-
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
