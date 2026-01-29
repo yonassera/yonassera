@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate and self-driven software engineering student with a basic foundation in object-oriented programming and web technologies. <br>I believe in writing readable code, learning by doing, and seeking for knowledge with the developer community. <br><br># 📌 Goals<br><br>* Master full-stack, OOP and android application development using modern tools and frameworks<br>* Learn cloud technologies and containerization tools like Docker<br>* Practice writing scalable and maintainable code for real-world use cases<br>* Contribute to open-source projects and build a strong portfolio
+I'm a passionate and self-driven software engineering student with a basic foundation in object-oriented programming and web technologies. <br>I believe in writing readable code, learning by doing, and seeking for knowledge with the developer community. <br><br>## 📌 Goals:<br><br>* Master full-stack, OOP and android application development using modern tools and frameworks<br>* Learn cloud technologies and containerization tools like Docker<br>* Practice writing scalable and maintainable code for real-world use cases<br>* Contribute to open-source projects and build a strong portfolio
 
 
 ## 🌐 Socials:
