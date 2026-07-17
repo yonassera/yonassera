@@ -9,11 +9,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a self-driven **Software Engineering student** with a solid foundation in object-oriented programming and web technologies. I believe in writing readable, maintainable code and learning by doing — making mistakes, understanding why things work, and growing from every project I build.
+I'm a passionate **Software Engineering student** with a basic foundation in object-oriented programming and web technologies. I believe in writing readable, maintainable code and learning by doing making mistakes, understanding why things work, and growing from every project I build. I see AI as a learning companion rather than a shortcut. It helps me explore new concepts, validate my thinking, and deepen my understanding while I continue developing my own problem-solving skills.
 
 - 🎓 Currently studying **Software Engineering**
-- 🌱 Focused on **Full-Stack Web Development** and **Software Design**
-- 🤖 I treat **AI as a learning companion** — a tool to explore concepts and validate thinking, not a shortcut
+- 🌱 Focused on **Full-Stack Web Development** and **Mobile Application Development**
 - 🤝 Always looking to **collaborate, contribute, and grow** with the developer community
 - ⚡ Firm believer that the best way to learn is by **building real things**
 
@@ -122,19 +121,6 @@ I'm a self-driven **Software Engineering student** with a solid foundation in ob
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yonassera&show_icons=true&theme=tokyonight&hide_border=true" alt="Yonas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yonassera&theme=tokyonight&hide_border=true" alt="Yonas's Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonassera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
