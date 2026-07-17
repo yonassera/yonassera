@@ -21,7 +21,8 @@ I'm a passionate **Software Engineering student** with a basic foundation in obj
 ## 🎯 Goals
 
 - 🚀 Master **full-stack and mobile application development** using modern tools and frameworks
-- ☁️ Learn **cloud technologies** and containerization tools like **Docker**
+- ☁️ Master **cloud technologies** and containerization tools like **Docker**, **Kubernetes**
+- ✨ Dive into AI and Automation using tools like **n8n**
 - 🧱 Practice writing **scalable and maintainable code** for real-world use cases
 - 🌍 Contribute to **open-source projects** and build a strong portfolio
 
